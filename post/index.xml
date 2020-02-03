@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on suelta</title>
+    <link>https://suelta.github.io/post/</link>
+    <description>Recent content in Posts on suelta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2020 11:31:07 +0800</lastBuildDate>
+    
+	<atom:link href="https://suelta.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>https://suelta.github.io/post/second/</link>
+      <pubDate>Mon, 03 Feb 2020 11:31:07 +0800</pubDate>
+      
+      <guid>https://suelta.github.io/post/second/</guid>
+      <description>Second
+hello
+Hugo</description>
+    </item>
+    
+  </channel>
+</rss>
